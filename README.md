@@ -25,13 +25,3 @@ The official CasteRaid Core made by the CastleRaid Developer Team!
 | [Feed](https://github.com/QuiverlyRivalry/Core/blob/master/src/CRCore/commands/staff/FeedCommand.php) | Command | Feeds a player |
 | [Quests](https://github.com/QuiverlyRivalry/Core/blob/master/src/CRCore/commands/quests/QuestsCommand.php) | Command | Quest Command |
 
-## CastleRaid Developer Team
-| User | Contributor Level |
-| :---: | :---: |
-| [QuiverlyRivalry](https://github.com/QuiverlyRivalry) | Server Owner |
-| [NickTehUnicorn](https://github.com/NickTehUnicorn) | Lead Developer |
-| [iiFlamiinBlaze](https://github.com/iiFlamiinBlaze) | Senior Developer |
-| [PotatoeTrainYT](https://github.com/PotatoeTrainYT) | Senior Developer |
-| [jasonwynn10](https://github.com/jasonwynn10) | Developer |
-| [Angel](https://github.com/Teamblocket) | Developer |
-| [Nora](https://github.com/uselesswaifu) | Developer |
