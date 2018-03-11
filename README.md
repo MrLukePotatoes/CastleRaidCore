@@ -1,5 +1,5 @@
 # CastleRaid Core
-The official CasteRaid Core made by the CastleRaid Developer Team!
+The official CasteRaid Core leaked by MrLukePoratoes
 
 # Formatting File Download for PHPStorm:
 [Download file then import to PHPStorm](https://cdn.discordapp.com/attachments/394542043952578562/405748633678381056/Default.xml).
