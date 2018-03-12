@@ -1,6 +1,7 @@
 # CastleRaid Core
 The official CasteRaid Core leaked by MrLukePoratoes.
 I will delete this if they give me CR 0.5.2
+# You need the latest FormApi version and Specter in order the plugin to work#
 
 # Formatting File Download for PHPStorm:
 [Download file then import to PHPStorm](https://cdn.discordapp.com/attachments/394542043952578562/405748633678381056/Default.xml).
